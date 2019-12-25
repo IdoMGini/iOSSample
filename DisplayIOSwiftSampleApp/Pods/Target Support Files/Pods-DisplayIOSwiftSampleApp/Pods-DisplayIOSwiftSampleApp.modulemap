@@ -1,0 +1,6 @@
+framework module Pods_DisplayIOSwiftSampleApp {
+  umbrella header "Pods-DisplayIOSwiftSampleApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
